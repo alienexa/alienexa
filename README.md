@@ -1,6 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.svg" width="100%" />
+</p>
 
-O meu nome é Alexa
+
 
 <!--
 **alienexa/alienexa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
